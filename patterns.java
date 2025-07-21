@@ -1,0 +1,29 @@
+package challenges;
+
+import java.net.SocketTimeoutException;
+
+public class patterns
+{
+    public static void main(String[] args)
+    {
+//        System.out.println("*");
+//        System.out.println("*  *");
+//        System.out.println("*  *  *");
+//        System.out.println("*  *   *   *");
+//        System.out.println("*  *   *   *   *");
+
+//        System.out.println("*  *  *  *  *");
+//        System.out.println("*  *  *  *");
+//        System.out.println("*  *  *");
+//        System.out.println("*  *");
+//        System.out.println("*");
+
+        System.out.println("        *");
+        System.out.println("      * *");
+        System.out.println("    * * *");
+        System.out.println("  * * * *");
+        System.out.println("* * * * *");
+
+
+    }
+}
